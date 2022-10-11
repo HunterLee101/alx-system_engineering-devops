@@ -5,3 +5,4 @@ Script to Display the content of 2 files
 Display the last 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
 Script to Display the first 10 lines of a file
+Script that displays the third line of a file
