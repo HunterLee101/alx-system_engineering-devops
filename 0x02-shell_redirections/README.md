@@ -7,3 +7,4 @@ Display the first 10 lines of /etc/passwd
 Script to Display the first 10 lines of a file
 Script that displays the third line of a file
 shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing text
+script that writes into the file ls_cwd_content the result of the command ls -la.
